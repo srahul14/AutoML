@@ -74,17 +74,6 @@
 # Description of Next Steps
 
 #### Our next steps consist of a few different features and integrations that would benefit the app. We plan on adding image dataset support for training object recognition models and integrating Google Sheets for additional tabular data. We also plan to allow modification and customization of models with additional parameters and visualizations of the data to help users make the most of the system.
-
-# List of Contributions
-## Aayush:
-#### I worked on the front end of this project, focusing on the navbar, tutorial, and paginated Job dashboard with all its functionalities. Added payment system tiers and limited functionality for guest users and non-premium users in the front end, a guided tour for the job dashboard, and the Kaggle dashboard using react-joyride. I also tweaked the API routes in our backend, added security to some API calls, and worked on the styling of the app. 
-## Aidan:
-#### I worked on the front and back end systems with a focus on the Kaggle integration and created the Kaggle dashboard. The work focused on making calls with Kaggle’s API on the front end and making some calls to our backend to stream datasets between the ensemble squared system and the Kaggle system. I also worked on the backend job and user security operations such as hashing, encryption, and privilege levels for sensitive information such as the user Kaggle API key and passwords.
-## Povel:
-#### I worked on general app setup, deployment, structures, and any other integrations we used. I added the models, the MongoDB connections, mongoose lib, routers, and controllers to make it easy to structure and write new code. I worked on a lot of backend API’s like login/signup/train/predict/getting files/(getting/deleting/updating collections), did a lot of revamp on the frontend, and even used PythonShell to communicate with the new instance of ensemble squared (and SFTP protocols to transfer files between our system and the borg server) with the ability to check the logs file for a job (APIs and frontend). 
-## Rahul:
-#### I worked on developing the UI for this project and implementing critical system functionalities such as adding new jobs, uploading test files for prediction to Ensemble^2, and getting the prediction results back. I also integrated additional functionalities like the data viewer, job-sharing capability, account tiers, payment system, and user tutorials to enhance the workflow of the system. Moreover, I also worked on implementing functionalities for critical frontend components such as the account dashboard to let the user update their profile information. 
-
 ---
 ---
 ## Old Readme (for grading/archive purposes)
