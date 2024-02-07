@@ -75,46 +75,6 @@
 
 #### Our next steps consist of a few different features and integrations that would benefit the app. We plan on adding image dataset support for training object recognition models and integrating Google Sheets for additional tabular data. We also plan to allow modification and customization of models with additional parameters and visualizations of the data to help users make the most of the system.
 ---
----
-## Old Readme (for grading/archive purposes)
-# High-Level Project Description
-### AutoML is a web application designed to help users interact with PLAI's Ensemble Squared automatic machine learning system. Our application focuses on making the system convenient and user-friendly by guiding the user through all the nessesary steps to make predictions of tabular data, even if they are not experts in ML. We include a third party integration with Kaggle to allow users to access even more data to explore and use with the system for competitions.  
-
-##  Project Goals
-### This project is designed to support Blackbox ML users that will allow a fluid user experience and quick and easy access to the machine learning systems. Our goal is to provide easy access to world-class predictive automated machine learning systems to the masses. We aim to support both general and advanced users equally in using the system to solve their inference problems. Our stretch goal is to allow integration and use with Kaggle to making using the system even easier.
-
-
-#  Project Task Requirements
-## 3-5 minimum req.
-### 1. Login/account page
-#### Allow Guest mode with hash (like current site)
-#### Allow sign up with email and password for multiple jobs, no hash required
-### 2. Tutorial (step by step guided mode)
-### 3. Casual and advanced user parameters for model generation
-#### Show minimal options to complete job to casual users and show maximum applicable options available to advanced users
-#### Allow toggle button in user settings and at sign up
-### 4. Nav Bar for different pages
-
-
-## 3-7 standard req.
-### 1. Kaggle integration (dataset import/viewer, add api key to account)
-### 2. Add/remove associated jobs to account with collaborators (add with email)
-### 3. Control dashboard (with jobs progress, datasets)
-#### On site progress indicator for jobs
-#### Timer for the job on page
-### 4.Tabular uploading screen (maybe other) data viewer/explorer
-#### Allow user to make minor corrections to data
-#### Allow verification of data? Pre confirmation and summary stats
-### 5. Prediction data results on site
-
-
-
-## 2-3 stretch req.
-### 1. Image/object recognition datatype support
-### 2. Graphs or visuals to support models/input data? (Tableau/d3js?)
-### 3. Payment system integration for long jobs
-
-
 # Sketches:
 ## Dashboard Sketch
 ![Dashboard Sketch](./cpsc455-Dashboard.png?raw=true "Login/Signup")
